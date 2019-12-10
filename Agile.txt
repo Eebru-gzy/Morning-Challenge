@@ -1,0 +1,30 @@
+Daily Challenge.
+
+1)Explain the following agile methodologies Scrum, Kanban, Extreme Programming.
+SCRUM: It is an Agile methodology that breaks a software development project into bits and pieces, each bit having a stipulated time frame for its completion. Also each bits undergo the Planning, Building, Testing, Reviewing, Deploying processes.
+
+KANBAN: It is an Agile methodology that is not iterative, unlike scrum, it allows project to be developed on a larger cycle. Kanban project has no defined start or end points for individual work items; each can start and end independently from one another, and work items have no predetermined duration, instead, each phase of the lifecycle is recognized as having a limited capacity for work at any one time.
+
+EXTREME PROGRAMMING: It is an agile software development framework that aims to produce higher quality software, and higher quality of life for the development team. Extreme programming is the most specific of the agile frameworks regarding appropriate engineering practices for software development.
+
+2)Who are the members of an agile team and what are their roles?
+Developer team: (Designer, Developers, Testers)
+Designers make visual representation for the intended product.
+Developers writes the codes that make the project works.
+Testers test the product before making it available for use
+Scrum masters. He coordinate meetings, motivates the people on the team.
+Product owner. Comes up with products idea and the user’s story.
+
+3)List 5 Project Management Tools
+Teamweek
+Toggl
+Trello
+Slack
+CoSchedule
+4)List the Phases of Software Development Life Cycle
+Planning
+Building
+Testing
+Reviewing
+Deploying
+Maintenance
